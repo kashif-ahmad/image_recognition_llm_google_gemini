@@ -1,0 +1,1 @@
+This an end-2-end image recognition LLM application using google gemini.
